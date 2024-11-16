@@ -1,0 +1,5 @@
+Ali 121 1 Maths 87 Physics 84 Chemistry 56 Computer 57 English 86
+Kazim kazim123 0 Maths 21 Physics 75 Chemistry 97 English 65 Computer 94
+shabaz shabaz123 0 Maths 0 Physics 0 Chemistry 0 English 0 Computer 0
+Maha maha_69 0 Maths 0 Physics 0 Chemistry 0 English 0 Biology 0
+malik malik123 0 Maths 0 Physics 0 Chemistry 0 English 0 Biology 0
